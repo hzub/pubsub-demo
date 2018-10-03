@@ -1,7 +1,10 @@
 # Pubsub - demo
 
 Small app displaying a library of your favourite places on a Google Map.
-Click a city in order to add new place.
+Created step-by-step in article:
+https://medium.com/@hubert.zub/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44
+
+How to use: click a city in order to add new place.
 
 1. How to build and run the app:
 ```
