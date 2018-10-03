@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "webpack --watch src/app.js",
+    "build": "webpack src/app.js"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}

@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 95vh;
+}
+
+body {
+  display: flex;
+  height: 95vh;
+  padding: 10px 10px 10px 0;
+  margin: 10px;
+  border:1px solid black;
+}
+
+h1 {
+  text-align:center;
+  width: 200px;
+  margin: 30px auto;
+}
+
+.sidebar {
+  flex: 0 0 250px;
+}
+
+.main-content-area {
+  flex: 1;
+  display: flex;
+}
+
+.main-content-area > div {
+  flex: 1;
+}
+
+.cities {
+  padding: 16px;
+}
